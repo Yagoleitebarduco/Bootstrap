@@ -1,0 +1,27 @@
+body{
+    padding-top: 75px;
+}
+
+.icones {
+    height: 100px;
+}
+
+.home-quote {
+    background-image: url(../img/bg-quote.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.pergunta {
+    transition: 0.1s ease-in-out;
+}
+
+.lista-plano li + li{
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.lista-plano li {
+    padding: 1rem;
+}
+
+laisa❤️

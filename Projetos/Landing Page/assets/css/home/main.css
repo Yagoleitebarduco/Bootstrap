@@ -1,0 +1,16 @@
+.disclaimer {
+    background-color: #202020;
+}
+
+.disclaimer h3 {
+    color: #ffc011;
+}
+
+.text-bg-primary {
+    --bs-primary-rgb: 66, 76, 136;
+}
+
+.para_quem {
+    width: 50px;
+    height: 50px;
+}
